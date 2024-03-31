@@ -1,4 +1,4 @@
-# Superstore-Dataset-Exploratory-Data-Analysis
+# Retail-Store-Data-Analysis
 
 ### Case Study:  
 
